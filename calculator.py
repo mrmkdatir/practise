@@ -11,7 +11,6 @@ result = a - b
 # Print the result
 print(f"The result of {a} - {b} is: {result}")
 
-
 #perform the multiplication
 multi_result = a * b
 
