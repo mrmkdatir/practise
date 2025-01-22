@@ -18,3 +18,8 @@ multi_result = a * b
 # print the result
 
 print("Multi:", multi_result)
+# Perform the division
+result = a / b
+
+# Print the result
+print(f"The result of {a} / {b} is: {result}")
