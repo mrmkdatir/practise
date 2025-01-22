@@ -10,3 +10,9 @@ result = a - b
  
 # Print the result
 print(f"The result of {a} - {b} is: {result}")
+
+# Perform the division
+result = a / b
+
+# Print the result
+print(f"The result of {a} / {b} is: {result}")
